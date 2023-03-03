@@ -1,0 +1,23 @@
+{
+  "name": "repaso-web-c",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnneSolarte/REPASO-WEB-C.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnneSolarte/REPASO-WEB-C/issues"
+  },
+  "homepage": "https://github.com/AnneSolarte/REPASO-WEB-C#readme",
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
